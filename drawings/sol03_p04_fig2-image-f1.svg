@@ -23,7 +23,7 @@
   </defs>
 
   <path class="ink-thin" d="M 130 290 V 20 M 130 20 l -4.5 9 M 130 20 l 4.5 9"/>
-  <text class="txt" x="106" y="34" font-size="18">Y</text>
+  <text class="txt" x="94" y="34" font-size="18">Y</text>
   <path class="ink-thin" d="M 25 160 H 340 M 340 160 l -9 -4.5 M 340 160 l -9 4.5"/>
   <text class="txt" x="328" y="182" font-size="15">x</text>
   <path class="ink-thin dashed" d="M 172 25 V 285"/>

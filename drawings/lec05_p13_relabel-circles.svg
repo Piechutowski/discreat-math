@@ -69,11 +69,14 @@
   <text class="txt" x="429.0" y="181" font-size="15" text-anchor="middle">2n&#8722;3</text>
   <text class="txt" x="453.6" y="79" font-size="15" text-anchor="middle">2n&#8722;1</text>
   <!-- new (tilde) indices inside, with pointers -->
-  <text class="txt" x="540" y="112" font-size="15" text-anchor="middle">1&#771;</text>
+  <text class="txt" x="540" y="112" font-size="15" text-anchor="middle">1</text>
+  <path class="ink-thin" d="M 534.5 97 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
   <path class="ink-thin" d="M 545 98 L 545 68 M 545 68 l -3.5 7 M 545 68 l 3.5 7"/>
-  <text class="txt" x="592" y="122" font-size="15" text-anchor="middle">2&#771;</text>
+  <text class="txt" x="592" y="122" font-size="15" text-anchor="middle">2</text>
+  <path class="ink-thin" d="M 586.5 108 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
   <path class="ink-thin" d="M 599 112 L 612 99 M 612 99 l -7.5 2.5 M 612 99 l -2.5 7.5"/>
-  <text class="txt" x="602" y="163" font-size="15" text-anchor="middle">3&#771;</text>
+  <text class="txt" x="602" y="163" font-size="15" text-anchor="middle">3</text>
+  <path class="ink-thin" d="M 596.5 149 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
   <path class="ink-thin" d="M 612 162 L 628 168 M 628 168 l -7.5 -3 M 628 168 l -7 3.5"/>
   <text class="txt" x="490" y="167" font-size="15" text-anchor="middle">n&#771;&#8722;1</text>
   <path class="ink-thin" d="M 478 169 L 462 171 M 462 171 l 8 2.5 M 462 171 l 7.5 -3.5"/>

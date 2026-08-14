@@ -33,9 +33,12 @@
   <path class="ink-thin" d="M 141 234 l 18 18 M 159 234 l -18 18"/>
   <path class="ink-thin" d="M 56.1 92 l 18 18 M 74.1 92 l -18 18"/>
   <!-- new indices for survivors -->
-  <text class="txt" x="150" y="102" font-size="14" text-anchor="middle">1&#771;</text>
-  <text class="txt" x="192" y="182" font-size="14" text-anchor="middle">2&#771;</text>
-  <text class="txt" x="108" y="182" font-size="14" text-anchor="middle">3&#771;</text>
+  <text class="txt" x="150" y="102" font-size="14" text-anchor="middle">1</text>
+  <path class="ink-thin" d="M 144.5 88 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
+  <text class="txt" x="192" y="182" font-size="14" text-anchor="middle">2</text>
+  <path class="ink-thin" d="M 186.5 168 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
+  <text class="txt" x="108" y="182" font-size="14" text-anchor="middle">3</text>
+  <path class="ink-thin" d="M 102.5 168 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
 
   <!-- ============ b) odd case, 2n+1 = 7 ============ -->
   <text class="txt" x="370" y="30" font-size="17">b)  n<tspan dy="4" font-size="12">0</tspan><tspan dy="-4"> = 2n+1   (2n+1 = 7)</tspan></text>
