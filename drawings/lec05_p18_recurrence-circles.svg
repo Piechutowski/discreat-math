@@ -63,7 +63,10 @@
   <path class="ink-thin" d="M 513.5 229 l 18 18 M 531.5 229 l -18 18"/>
   <path class="ink-thin" d="M 375.5 163 l 18 18 M 393.5 163 l -18 18"/>
   <!-- new indices for survivors 3, 5, 7 -->
-  <text class="txt" x="533" y="165" font-size="14" text-anchor="middle">1&#771;</text>
-  <text class="txt" x="461" y="200" font-size="14" text-anchor="middle">2&#771;</text>
-  <text class="txt" x="443" y="117" font-size="14" text-anchor="middle">3&#771;</text>
+  <text class="txt" x="533" y="165" font-size="14" text-anchor="middle">1</text>
+  <path class="ink-thin" d="M 527.5 151 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
+  <text class="txt" x="461" y="200" font-size="14" text-anchor="middle">2</text>
+  <path class="ink-thin" d="M 455.5 186 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
+  <text class="txt" x="443" y="117" font-size="14" text-anchor="middle">3</text>
+  <path class="ink-thin" d="M 437.5 103 q 2.5 -3.5 5 -1 q 2.5 2.5 5.5 -1" stroke-width="1.2"/>
 </svg>
