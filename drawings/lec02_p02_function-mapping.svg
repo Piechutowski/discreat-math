@@ -31,15 +31,15 @@
   <circle class="fill" cx="105" cy="188" r="3.2"/>
   <text class="txt" x="75" y="193" font-size="15">x<tspan dy="4" font-size="11">4</tspan></text>
   <circle class="fill" cx="368" cy="70" r="3.2"/>
-  <text class="txt" x="344" y="75" font-size="15">y<tspan dy="4" font-size="11">1</tspan></text>
+  <text class="txt" x="376" y="62" font-size="15">y<tspan dy="4" font-size="11">1</tspan></text>
   <circle class="fill" cx="395" cy="112" r="3.2"/>
   <text class="txt" x="403" y="117" font-size="15">y<tspan dy="4" font-size="11">2</tspan></text>
   <circle class="fill" cx="388" cy="192" r="3.2"/>
   <text class="txt" x="396" y="197" font-size="15">y<tspan dy="4" font-size="11">3</tspan></text>
   <circle class="fill" cx="348" cy="162" r="3.2"/>
-  <text class="txt" x="324" y="167" font-size="15">y<tspan dy="4" font-size="11">4</tspan></text>
+  <text class="txt" x="356" y="172" font-size="15">y<tspan dy="4" font-size="11">4</tspan></text>
   <circle class="fill" cx="352" cy="112" r="3.2"/>
-  <text class="txt" x="328" y="104" font-size="15">y<tspan dy="4" font-size="11">5</tspan></text>
+  <text class="txt" x="340" y="97" font-size="15">y<tspan dy="4" font-size="11">5</tspan></text>
   <path class="ink-thin" d="M 136 79 L 356 71" marker-end="url(#ah)"/>
   <path class="ink-thin" d="M 133 120 L 337 158" marker-end="url(#ah)"/>
   <path class="ink-thin" d="M 120 152 L 341 116" marker-end="url(#ah)"/>
