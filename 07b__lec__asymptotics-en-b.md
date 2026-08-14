@@ -121,7 +121,7 @@ $$
 All such questions are standard in the analysis of the algorithm's complexity. The answers are usually not trivial, and each time they require a separate analysis. For some classes of recursive schemes (common in computer science) one can derive a general theory:
 
 $$
-\text{implicit form} \;\overset{\text{how to transform}}{=\!=\!\Longrightarrow}\; \text{explicit form}
+\text{implicit form} \;\overset{\text{how to transform}}{\Longrightarrow}\; \text{explicit form}
 $$
 
 ## Estimating via a subsequence
@@ -444,7 +444,7 @@ One can generalize that technique to the schemes involving sums
 
 $$
 (\blacktriangle) \quad \sum_{k=0}^{\infty} \frac{1}{a_k a_{k+1}}
-\qquad \text{provided } a_{k+1} - a_k = r \overset{\neq 0}{=} \text{const (arithmetic seq.)}
+\qquad \text{provided } a_{k+1} - a_k = r \neq 0 \ \text{ (arithmetic seq.)}
 $$
 
 $$
