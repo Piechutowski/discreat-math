@@ -119,7 +119,7 @@ Therefore the recurrence relation is the following:
 $$
 (*) \quad
 \begin{cases}
-\text{\small(\char"25B2)} \ \ t(n) = t(0)\,t(n-1) + t(1)\,t(n-2) + \ldots + t(n-2)\,t(1) + t(n-1)\,t(0), \\[4pt]
+\ t(n) = t(0)\,t(n-1) + t(1)\,t(n-2) + \ldots + t(n-2)\,t(1) + t(n-1)\,t(0), \\[4pt]
 \oplus \ \text{ initial values } \ t(0) = t(1) = 1.
 \end{cases}
 $$
@@ -242,14 +242,14 @@ n - 1 = \tilde{n}, \quad n = \infty \Rightarrow \tilde{n} = \infty
 \end{array}
 \right\} \\[2pt]
 &= \sum_{\tilde{n}=0}^{\infty} -\frac{2}{\tilde{n}+1} \binom{2\tilde{n}}{\tilde{n}} x^{\tilde{n}+1} + 1 \\[2pt]
-&\overset{\text{\small(back to the old index)}}{=} \sum_{n=0}^{\infty} -\frac{2}{n+1} \binom{2n}{n} x^{n+1} + 1
+&= \sum_{n=0}^{\infty} -\frac{2}{n+1} \binom{2n}{n} x^{n+1} + 1 \qquad \text{(we return to the old index)}
 \end{aligned}
 $$
 
 Now recall the definition
 
 $$
-(\text{\small■}) \quad \boxed{\ F(x) = \sum_{n=0}^{\infty} t(n)\,x^n\ }
+(\blacksquare) \quad \boxed{\ F(x) = \sum_{n=0}^{\infty} t(n)\,x^n\ }
 $$
 
 — this is the definition of $F(x)$; all $t(n) \geq 0$, so for every $x$ in the convergence interval $I$ we take $x > 0$, $x \in I$, and then
@@ -273,7 +273,7 @@ $$
 \boxed{\ F(x) = \sum_{n=0}^{\infty} \frac{1}{n+1} \binom{2n}{n} x^n\ }
 $$
 
-Comparing with $(\text{\small■})$ $F(x) = \sum_{n=0}^{\infty} t(n)\,x^n$:
+Comparing with $(\blacksquare)$ $F(x) = \sum_{n=0}^{\infty} t(n)\,x^n$:
 
 $$
 (\blacktriangle) \quad \boxed{\ t(n) = \frac{1}{n+1} \binom{2n}{n}\ }
@@ -371,7 +371,7 @@ Observe: for an interval $[\alpha \,..\, \beta)$, $\beta \geq \alpha$, we have $
 $$
 \begin{aligned}
 W &= 1 + \sum_{1 \le k < 10} \Bigl( \bigl\lfloor k^2 + 3k + 3 + \tfrac1k \bigr\rfloor - \bigl\lfloor k^2 \bigr\rfloor + 1 \Bigr) \\[2pt]
-&= 1 + \sum_{1 \le k < 10} \Bigl( \cancel{k^2} + 3k + 3 + 1 + \underbrace{\bigl\lfloor \tfrac1k \bigr\rfloor}_{\text{“}0\text{”}} - \cancel{k^2} \Bigr) \\[2pt]
+&= 1 + \sum_{1 \le k < 10} \Bigl( \cancel{k^2} + 3k + 3 + 1 + \underbrace{\bigl\lfloor \tfrac1k \bigr\rfloor}_{\text{"0"}} - \cancel{k^2} \Bigr) \\[2pt]
 &= 1 + \sum_{1 \le k < 10} \underbrace{(3k + 4)}_{a_k} \\[2pt]
 &= 1 + \frac{\overset{a_1}{7} + \overset{a_9}{31}}{2} \cdot 9 \\[2pt]
 &= \underline{\underline{172}}
@@ -507,17 +507,17 @@ C_2 &= v_0\,(r_1 - 4)(r_1 - r_2)^{-1}
 $$
 
 $$
-\Rightarrow \quad (\text{\small■■}) \quad
+\Rightarrow \quad (\blacksquare\blacksquare) \quad
 \boxed{\ v_n = v_0 \, \frac{r_2 - 4}{r_2 - r_1} \, r_1^n + v_0 \, \frac{r_1 - 4}{r_1 - r_2} \, r_2^n\ }
 $$
 
-But $v_K = V$, so from $(\text{\small■■})$:
+But $v_K = V$, so from $(\blacksquare\blacksquare)$:
 
 $$
 v_K = v_0 \, \frac{r_2 - 4}{r_2 - r_1} \, r_1^K + v_0 \, \frac{r_1 - 4}{r_1 - r_2} \, r_2^K.
 $$
 
-We can compute $v_0$ by substituting $V$ into $(\text{\small■■})$:
+We can compute $v_0$ by substituting $V$ into $(\blacksquare\blacksquare)$:
 
 $$
 v_0 = \frac{(r_2 - r_1)\,V}{(r_2 - 4)\,r_1^K - (r_1 - 4)\,r_2^K}

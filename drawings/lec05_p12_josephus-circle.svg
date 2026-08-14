@@ -43,6 +43,6 @@
   <path class="ink-thin" d="M 172.2 77.9 A 88 88 0 0 1 201.3 87.3 M 201.3 87.3 l -10.5 -1.5 M 201.3 87.3 l -5.5 -9"/>
 
   <!-- survivor 5 circled -->
-  <circle class="ink" cx="226" cy="255" r="17"/>
-  <text class="txt" x="256" y="262" font-size="22">!</text>
+  <circle class="ink" cx="228" cy="259" r="25"/>
+  <text class="txt" x="266" y="252" font-size="22">!</text>
 </svg>
