@@ -940,7 +940,7 @@ $$
 p(r) = r^2 + r - 6 = (r+3)(r-2)
 $$
 
-**STEP 3:** $f(n) = 2^n - 1$ is itself a solution of the recurrence $(\circledast)$: $a_n - 3 a_{n-1} + 2 a_{n-2} = 0$, whose characteristic polynomial is
+**STEP 3:** $f(n) = 2^n - 1$ is itself a solution of the recurrence $(\odot)$: $a_n - 3 a_{n-1} + 2 a_{n-2} = 0$, whose characteristic polynomial is
 
 $$
 q(r) = (r-2)(r-1) = r^2 - 3r + 2
