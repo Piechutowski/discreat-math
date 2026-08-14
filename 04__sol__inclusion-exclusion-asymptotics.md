@@ -55,8 +55,10 @@ $$
 The number of those divisible by $2$ or $3$ or $5$ is $\overline{A \cup B \cup C}$; so the number of those which are **not** divisible by $2$ or $3$ or $5$ is:
 
 $$
-(*) \quad \underset{\substack{\| \\ 100}}{N} - \overline{A \cup B \cup C} = 100 - \left[ 50 + 33 + 20 - 10 - 16 - 6 + 3 \right] = 100 - 74 = 26.
+(*) \quad N - \overline{A \cup B \cup C} = 100 - \left[ 50 + 33 + 20 - 10 - 16 - 6 + 3 \right] = 100 - 74 = 26
 $$
+
+(where $N = 100$).
 
 These numbers are:
 

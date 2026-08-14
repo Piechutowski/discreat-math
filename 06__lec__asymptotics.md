@@ -199,7 +199,7 @@ $$
 **Thm.** A hierarchy of certain known sequences, ordered in such a way that each of them is of order $O$ of all the sequences to its right:
 
 $$
-\boxed{\ 1,\ \ \lg_2 n,\ \ \sqrt[m]{n}\,^{(*)},\ \ n,\ \ n\lg_2 n,\ \ n^2,\ \ n^3,\ \ n^4,\ \ n^m\,^{(**)},\ \ 2^n,\ \ n!,\ \ n^n\ }
+\boxed{\ 1,\ \ \lg_2 n,\ \ \sqrt[m]{n}\,{}^{(*)},\ \ n,\ \ n\lg_2 n,\ \ n^2,\ \ n^3,\ \ n^4,\ \ n^m\,{}^{(**)},\ \ 2^n,\ \ n!,\ \ n^n\ }
 $$
 
 $(*)$ among the roots: $\sqrt[m_1]{n},\ \sqrt[m_2]{n}$ are ordered with $m_2 < m_1$ (the larger the root index, the slower the growth);
