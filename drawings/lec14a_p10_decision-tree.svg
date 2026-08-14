@@ -43,13 +43,13 @@
   <text class="txt" x="195" y="200" font-size="15" text-anchor="middle">plague</text>
 
   <!-- pulse 2 children -->
-  <path class="ink-thin" d="M 360 135 L 305 178 M 360 135 L 425 178"/>
+  <path class="ink-thin" d="M 360 135 L 305 178 M 360 135 L 413 178"/>
   <text class="txt" x="303" y="160" font-size="15" text-anchor="middle">weak</text>
-  <text class="txt" x="425" y="160" font-size="15" text-anchor="middle">strong</text>
+  <text class="txt" x="415" y="160" font-size="15" text-anchor="middle">strong</text>
   <ellipse class="ink" cx="305" cy="195" rx="38" ry="17"/>
   <text class="txt" x="305" y="200" font-size="15" text-anchor="middle">acne</text>
-  <ellipse class="ink" cx="425" cy="195" rx="48" ry="17"/>
-  <text class="txt" x="425" y="200" font-size="14" text-anchor="middle">normal state</text>
+  <ellipse class="ink" cx="413" cy="195" rx="46" ry="17"/>
+  <text class="txt" x="413" y="200" font-size="14" text-anchor="middle">normal state</text>
 
   <!-- pulse 3 children -->
   <path class="ink-thin" d="M 570 135 L 520 180 M 570 135 L 655 178"/>

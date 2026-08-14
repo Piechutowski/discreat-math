@@ -24,10 +24,10 @@
   <text class="txt" x="30" y="228" font-size="15">we choose this triple</text>
 
   <!-- the leftover pair (known genuine) -->
-  <rect class="ink" x="505" y="45" width="36" height="32"/>
-  <rect class="ink" x="560" y="45" width="36" height="32"/>
-  <text class="txt" x="551" y="105" font-size="13" text-anchor="middle">the leftover pair</text>
-  <text class="txt" x="551" y="122" font-size="13" text-anchor="middle">(same weight as the rest)</text>
+  <rect class="ink" x="505" y="50" width="36" height="32"/>
+  <rect class="ink" x="560" y="50" width="36" height="32"/>
+  <text class="txt" x="551" y="20" font-size="13" text-anchor="middle">the leftover pair</text>
+  <text class="txt" x="551" y="38" font-size="13" text-anchor="middle">(same weight as the rest)</text>
 
   <!-- splitting the chosen triple -->
   <path class="ink-thin" d="M 12 250 Q 34 236 56 250 Q 34 264 12 250"/>
