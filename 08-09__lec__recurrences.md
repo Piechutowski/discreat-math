@@ -675,10 +675,12 @@ S_0 = \widetilde{a}_1\, 3^0 + 0 = \widetilde{a}_1 \\
 S_1 = \widetilde{a}_1\, 3^1 + \widetilde{a}_2 \cdot 1 \cdot 3^1 = 3\widetilde{a}_1 + 3\widetilde{a}_2
 \end{cases}
 \qquad
-\begin{rcases}
-\widetilde{a}_1 = 1 \\
-3\widetilde{a}_1 + 3\widetilde{a}_2 = -3
-\end{rcases}
+\left.
+\begin{aligned}
+\widetilde{a}_1 &= 1 \\
+3\widetilde{a}_1 + 3\widetilde{a}_2 &= -3
+\end{aligned}
+\right\}
 \ \Rightarrow\ \widetilde{a}_1 = 1 \ \text{and}\ \widetilde{a}_2 = -2
 $$
 

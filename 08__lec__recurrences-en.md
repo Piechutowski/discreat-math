@@ -413,7 +413,6 @@ $$
 ($S_n$ depends on 2 parameters). If we add $S_0$ and $S_1$, we have a unique solution $S_n$ — we eliminate $\tilde{C}_1$ and $\tilde{C}_2$ by solving
 
 $$
-(\ast\!\ast) \quad
 \begin{cases}
 S_0 = \tilde{C}_1\, r_1^0 + \tilde{C}_2\, r_2^0 \\
 S_1 = \tilde{C}_1\, r_1^1 + \tilde{C}_2\, r_2^1
@@ -440,7 +439,6 @@ $$
 Take e.g. $n = 0$ and $n = 1$:
 
 $$
-(\blacktriangle) \quad
 \begin{cases}
 \alpha + \beta = 0 \\
 r_1 \alpha + r_2 \beta = 0
@@ -455,7 +453,7 @@ $$
 \det \begin{bmatrix} 1 & 1 \\ r_1 & r_2 \end{bmatrix} = r_2 - r_1 \neq 0 \quad \text{as } r_2 \neq r_1 \text{ (as } \Delta > 0\text{)}
 $$
 
-So we have one solution to $(\blacktriangle)$: $\alpha = \beta = 0$ $\Rightarrow$ $\{r_1^n\}_{n \geq 0}$ and $\{r_2^n\}_{n \geq 0}$ are **linearly independent**. $\square$
+So we have one solution to this system: $\alpha = \beta = 0$ $\Rightarrow$ $\{r_1^n\}_{n \geq 0}$ and $\{r_2^n\}_{n \geq 0}$ are **linearly independent**. $\square$
 
 ### b) Assume now $\Delta = 0$
 
