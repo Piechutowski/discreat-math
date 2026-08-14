@@ -43,7 +43,7 @@ $$
 
 A non-mathematical example — the set of all people (a person belongs to the Earth):
 
-![[lec01_p02_set-of-all-people.png]]
+![[lec01_p02_set-of-all-people.svg]]
 
 ## Definition 1 — set operations
 
@@ -55,7 +55,7 @@ $$
 
 Venn diagram:
 
-![[lec01_p02_venn-subset.png]]
+![[lec01_p02_venn-subset.svg]]
 
 ### b) $A \cap B$ — (**intersection** of $A$ and $B$)
 
@@ -63,7 +63,7 @@ $$
 a \in A \cap B \iff a \in A \text{ and } a \in B
 $$
 
-![[lec01_p02_venn-intersection.png]]
+![[lec01_p02_venn-intersection.svg]]
 
 ### c) $A \cup B$ — (**union** of $A$ and $B$)
 
@@ -71,7 +71,7 @@ $$
 a \in A \cup B \iff a \in A \text{ or } a \in B
 $$
 
-![[lec01_p02_venn-union-card.png|300]]
+![[lec01_p02_venn-union-card.svg|300]]
 
 ### d) $A \setminus B$ — (**difference** of $A$ and $B$)
 
@@ -79,7 +79,7 @@ $$
 a \in A \setminus B \iff a \in A \text{ and } a \notin B
 $$
 
-![[lec01_p03_venn-difference.png]]
+![[lec01_p03_venn-difference.svg]]
 
 ### e) $A = B$ — (**equality of sets**)
 
@@ -111,13 +111,13 @@ $$
 
 The teacher's margin doodles illustrating the union and intersection of several sets:
 
-![[lec01_p03_union-intersection-doodles.png|120]]
+![[lec01_p03_union-intersection-doodles.svg|120]]
 
 ### i) $\mathcal{P}(S)$ — (**power set** of the set $S$)
 
 The set of all subsets of the set $S$. Sometimes written with the alternative notation $2^S$.
 
-![[lec01_p04_powerset-doodle.png|120]]
+![[lec01_p04_powerset-doodle.svg|120]]
 
 ### j) $A \oplus B \equiv (A \cup B) \setminus (A \cap B)$ — **symmetric difference**
 
@@ -172,7 +172,7 @@ $$
 
 **Remark:** $U$ — a fixed set (the **universe**).
 
-![[lec01_p05_universe.png]]
+![[lec01_p05_universe.svg]]
 
 $U \setminus A$ — the **complement of $A$**, also denoted:
 
@@ -182,7 +182,7 @@ $$
 
 **Example:** $U = \mathbb{R}^2$ (the plane); $A$ is a disc, so $A'$ is the plane with a hole:
 
-![[lec01_p05_plane-complement.png]]
+![[lec01_p05_plane-complement.svg]]
 
 ## Laws of set algebra
 
@@ -224,7 +224,7 @@ $$
 
 **Venn diagrams** easily show the truth of the above rules. E.g. for the distributive law — the left diagram shades $A \cap (B \cup C)$, the right one $(A \cap B) \cup (A \cap C)$, and both shaded regions coincide:
 
-![[lec01_p07_venn-distributive.png]]
+![[lec01_p07_venn-distributive.svg]]
 
 ## Proof of the distributive law
 
@@ -333,7 +333,7 @@ $$
 |S \cup T| = |S| + |T|
 $$
 
-![[lec01_p10_disjoint-count.png|200]]
+![[lec01_p10_disjoint-count.svg|200]]
 
 **b)** in general:
 
@@ -341,7 +341,7 @@ $$
 |S \cup T| = |S| + |T| - |S \cap T|
 $$
 
-![[lec01_p10_overlap-count.png|250]]
+![[lec01_p10_overlap-count.svg|250]]
 
 ## Infinite unions and intersections
 
@@ -367,7 +367,7 @@ $$
 A_1 = [0, 1), \quad A_2 = \left[0, \tfrac{1}{2}\right), \quad \ldots, \quad A_n = \left[0, \tfrac{1}{n}\right), \ \ldots
 $$
 
-![[lec01_p12_intervals.png]]
+![[lec01_p12_intervals.svg]]
 
 $$
 \text{(i)} \ \bigcup_{i=1}^{\infty} A_i = [0, 1) \qquad \text{(ii)} \ \bigcap_{i=1}^{\infty} A_i = \{0\}
@@ -413,7 +413,7 @@ $$
 
 $A$ — the disc centered at $(0,0)$ with radius $R = 1$; $B$ — an open half-plane. The teacher's sketches of $A$, $B$, $A \cup B$, $A \cap B$, $A \setminus B$, $B \setminus A$, and (for $U = \mathbb{R}^2$) the complements $A'$, $B'$:
 
-![[lec01_p14_plane-set-operations.png]]
+![[lec01_p14_plane-set-operations.svg]]
 
 Here $A \not\subseteq B$ and $B \not\subseteq A$.
 
@@ -423,7 +423,7 @@ $$
 A = (0, 2], \qquad B = [1, 3) \cup \{-1\}
 $$
 
-![[lec01_p15_number-lines.png]]
+![[lec01_p15_number-lines.svg]]
 
 For $U = \mathbb{R}$:
 
