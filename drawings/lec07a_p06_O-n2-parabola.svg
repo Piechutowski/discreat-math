@@ -22,8 +22,8 @@
   <circle class="fill" cx="150" cy="132" r="3.5"/>
   <circle class="fill" cx="163" cy="120" r="3.5"/>
   <circle class="fill" cx="136" cy="147" r="3.5"/>
-  <path class="ink-thin" d="M 196 100 L 170 116 M 170 116 l 10.5 -2 M 170 116 l 6.5 -8"/>
-  <text class="txt" x="200" y="96" font-size="14">a&#8345; can be here</text>
+  <path class="ink-thin" d="M 208 98 L 172 116 M 172 116 l 11 -2 M 172 116 l 7 -8.5"/>
+  <text class="txt" x="272" y="92" font-size="14" text-anchor="end">a&#8345; can be here</text>
   <line class="ink-thin" x1="128" y1="161" x2="128" y2="169"/>
   <line class="ink-thin" x1="156" y1="161" x2="156" y2="169"/>
   <line class="ink-thin" x1="196" y1="161" x2="196" y2="169"/>

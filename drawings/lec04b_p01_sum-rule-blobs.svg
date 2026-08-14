@@ -28,7 +28,7 @@
   <circle class="fill" cx="110.0" cy="108.0" r="4"/>
   <circle class="fill" cx="157.0" cy="96.0" r="4"/>
   <circle class="fill" cx="222.0" cy="90.0" r="4"/>
-  <text class="txt" x="52.0" y="70.0" font-size="19">e<tspan dy="5" font-size="13">1</tspan></text>
+  <text class="txt" x="62.0" y="68.0" font-size="19">e<tspan dy="5" font-size="13">1</tspan></text>
   <text class="txt" x="115.0" y="116.0" font-size="19">e<tspan dy="5" font-size="13">2</tspan></text>
   <text class="txt" x="228.0" y="84.0" font-size="19">f<tspan dy="5" font-size="13">1</tspan></text>
   <text class="txt" x="58.0" y="34.0" font-size="21">A</text>

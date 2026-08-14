@@ -48,23 +48,23 @@
   <circle class="ink" cx="120" cy="252" r="34"/>
   <rect class="ink-thin" x="111" y="189" width="19" height="19" transform="rotate(-8 120 198)"/>
   <text class="txt" x="120.5" y="204.0" font-size="14" text-anchor="middle">2</text>
-  <rect class="ink-thin" x="57" y="265" width="19" height="19" transform="rotate(-8 66 274)"/>
-  <text class="txt" x="66.5" y="280.0" font-size="14" text-anchor="middle">1</text>
-  <rect class="ink-thin" x="147" y="265" width="19" height="19" transform="rotate(-8 156 274)"/>
-  <text class="txt" x="156.5" y="280.0" font-size="14" text-anchor="middle">3</text>
+  <rect class="ink-thin" x="55" y="267" width="19" height="19" transform="rotate(-8 64 276)"/>
+  <text class="txt" x="64.5" y="282.0" font-size="14" text-anchor="middle">1</text>
+  <rect class="ink-thin" x="155" y="267" width="19" height="19" transform="rotate(-8 164 276)"/>
+  <text class="txt" x="164.5" y="282.0" font-size="14" text-anchor="middle">3</text>
   <circle class="ink" cx="330" cy="252" r="34"/>
   <rect class="ink-thin" x="321" y="189" width="19" height="19" transform="rotate(-8 330 198)"/>
   <text class="txt" x="330.5" y="204.0" font-size="14" text-anchor="middle">1</text>
-  <rect class="ink-thin" x="267" y="265" width="19" height="19" transform="rotate(-8 276 274)"/>
-  <text class="txt" x="276.5" y="280.0" font-size="14" text-anchor="middle">3</text>
-  <rect class="ink-thin" x="357" y="265" width="19" height="19" transform="rotate(-8 366 274)"/>
-  <text class="txt" x="366.5" y="280.0" font-size="14" text-anchor="middle">2</text>
+  <rect class="ink-thin" x="265" y="267" width="19" height="19" transform="rotate(-8 274 276)"/>
+  <text class="txt" x="274.5" y="282.0" font-size="14" text-anchor="middle">3</text>
+  <rect class="ink-thin" x="365" y="267" width="19" height="19" transform="rotate(-8 374 276)"/>
+  <text class="txt" x="374.5" y="282.0" font-size="14" text-anchor="middle">2</text>
   <circle class="ink" cx="540" cy="252" r="34"/>
   <rect class="ink-thin" x="531" y="189" width="19" height="19" transform="rotate(-8 540 198)"/>
   <text class="txt" x="540.5" y="204.0" font-size="14" text-anchor="middle">3</text>
-  <rect class="ink-thin" x="477" y="265" width="19" height="19" transform="rotate(-8 486 274)"/>
-  <text class="txt" x="486.5" y="280.0" font-size="14" text-anchor="middle">2</text>
-  <rect class="ink-thin" x="567" y="265" width="19" height="19" transform="rotate(-8 576 274)"/>
-  <text class="txt" x="576.5" y="280.0" font-size="14" text-anchor="middle">1</text>
+  <rect class="ink-thin" x="475" y="267" width="19" height="19" transform="rotate(-8 484 276)"/>
+  <text class="txt" x="484.5" y="282.0" font-size="14" text-anchor="middle">2</text>
+  <rect class="ink-thin" x="575" y="267" width="19" height="19" transform="rotate(-8 584 276)"/>
+  <text class="txt" x="584.5" y="282.0" font-size="14" text-anchor="middle">1</text>
 
 </svg>
